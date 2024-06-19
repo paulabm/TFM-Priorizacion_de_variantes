@@ -39,4 +39,6 @@ Ejemplo en el script:
     ```
     carpetaDeFiltrado <- "filtrado_patogenicidad_ClinVar"
     ```
-3. **Ejecutar el script en R**. Para ello, utilizar la función `source()` en la consola de R especificando la ruta al directorio donde se encuentra el script. Ejemplo: `source("C:\Users\Paula\Scripts\script_priorización_general.R")`
+3. **Ejecutar el script en R**. Para ello, utilizar la función `source()` en la consola de R especificando la ruta al directorio donde se encuentra el script. 
+
+    Ejemplo: `source("C:\Users\Paula\Scripts\script_priorización_general.R")`
